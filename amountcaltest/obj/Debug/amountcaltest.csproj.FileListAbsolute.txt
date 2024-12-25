@@ -1,0 +1,15 @@
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\amountcaltest.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\amountcaltest.pdb
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\obj\Debug\amountcaltest.csproj.AssemblyReference.cache
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\obj\Debug\amountcaltest.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\obj\Debug\amountca.DAB3B6A5.Up2Date
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\obj\Debug\amountcaltest.dll
+C:\Users\PMLS\source\repos\ConsoleApp2\amountcaltest\obj\Debug\amountcaltest.pdb
